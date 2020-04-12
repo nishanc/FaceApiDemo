@@ -1,0 +1,1 @@
+In support of article - [Quickstart: Integrating Azure Cognitive Services Face Detection API with .NET Core](https://medium.com/developer-diary/quickstart-integrating-azure-cognitive-services-face-detection-api-with-net-core-42080733ae30)

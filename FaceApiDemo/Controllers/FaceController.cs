@@ -25,7 +25,7 @@ namespace FaceApiDemo.Controllers
             _config = config;
         }
 
-        // GET api/face
+        // POST api/face
         [HttpPost]
         public async Task<IActionResult> GetFaceDetails([FromForm] IFormFile file)
         {
